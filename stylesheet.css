@@ -1,0 +1,54 @@
+.main {
+    border: 1px solid;
+    background-color: #ddd;
+    width: 60%;
+    margin : auto;
+    float: none;
+}
+
+.intro {
+    font-size: xxx-large;
+    text-align: center;
+    line-height: 5px;
+}
+
+.brief p {
+    border: 0.5px solid rgb(82, 72, 72);
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    line-height: 30px;
+}
+
+.image {
+    border: 0.1px solid rgb(82, 72, 72);
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.image p {
+    background-color: rgb(94, 82, 82);
+    display: inline-block;
+    padding: 10px;
+    width: 96%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.content {
+    margin-left: 110px;
+    margin-right: 110px; 
+}
+
+footer {
+    text-align: center;
+}
